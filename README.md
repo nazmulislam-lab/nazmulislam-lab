@@ -1,5 +1,3 @@
-<img src="assets/digital-passport.jpg" align="right" width="160" alt="Md Nazmul Islam" />
-
 # Md Nazmul Islam
 
 🌐 **Portfolio:** [nazmulislam-lab.github.io](https://nazmulislam-lab.github.io/)
