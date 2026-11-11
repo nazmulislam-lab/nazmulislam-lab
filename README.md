@@ -1,3 +1,5 @@
+<img src="assets/digital-passport.jpg" align="right" width="160" alt="Md Nazmul Islam" />
+
 # Md Nazmul Islam
 
 🌐 **Portfolio:** [nazmulislam-lab.github.io](https://nazmulislam-lab.github.io/)
@@ -42,6 +44,7 @@ That background shapes my research: I focus on systems that are interpretable, r
 
 | Project | Description |
 |---|---|
+| [karpathy-guardrails](https://github.com/nazmulislam-lab/karpathy-guardrails) | Automated skill, templates, and generator enforcing Andrej Karpathy's agentic engineering & 80% ASD-STE100 principles |
 | [multi-agent-system](https://github.com/nazmulislam-lab/multi-agent-system) | Multi-agent LLM system (orchestrator, researcher, coders, reviewer, documenter) running on local models with a live dashboard |
 | [passport-photo-studio](https://github.com/nazmulislam-lab/passport-photo-studio) | Privacy-first, in-browser tool for producing compliant passport and visa photo sheets |
 | [orca-draw](https://github.com/nazmulislam-lab/orca-draw) | Hand-drawn style whiteboard (Vite + rough.js), Excalidraw-compatible, with a one-line installer |
